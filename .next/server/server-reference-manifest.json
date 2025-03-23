@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40b9b60f7b0b616807fc653a21dee086543ff20e58": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshusuke%2Fokonomiyaki_menu%2Fapp%2Factions.ts%22%2C%5B%5B%2240b9b60f7b0b616807fc653a21dee086543ff20e58%22%2C%22sendOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wKBGSWU/uWRPcAoYc6qIG/2DqTc9XOpG7n+6f8ZfbZY="
+}
